@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-flygeln01",
-      "name": "flygeln01",
+      "name": "Flygeln01",
       "levels": [
         {
           "tileSize": 256,
@@ -59,7 +59,7 @@ var APP_DATA = {
     },
     {
       "id": "1-flygeln02",
-      "name": "flygeln02",
+      "name": "Flygeln02",
       "levels": [
         {
           "tileSize": 256,
@@ -109,7 +109,7 @@ var APP_DATA = {
     },
     {
       "id": "2-flygeln03",
-      "name": "flygeln03",
+      "name": "Flygeln03",
       "levels": [
         {
           "tileSize": 256,
@@ -159,7 +159,7 @@ var APP_DATA = {
     },
     {
       "id": "3-flygeln04",
-      "name": "flygeln04",
+      "name": "Flygeln04",
       "levels": [
         {
           "tileSize": 256,
@@ -203,7 +203,7 @@ var APP_DATA = {
     },
     {
       "id": "4-flygeln05",
-      "name": "flygeln05",
+      "name": "Flygeln05",
       "levels": [
         {
           "tileSize": 256,
@@ -247,7 +247,7 @@ var APP_DATA = {
     },
     {
       "id": "5-flygeln06",
-      "name": "flygeln06",
+      "name": "Flygeln06",
       "levels": [
         {
           "tileSize": 256,
@@ -285,7 +285,7 @@ var APP_DATA = {
     },
     {
       "id": "6-flygeln07",
-      "name": "flygeln07",
+      "name": "Flygeln07",
       "levels": [
         {
           "tileSize": 256,
@@ -335,7 +335,7 @@ var APP_DATA = {
     },
     {
       "id": "7-flygeln08",
-      "name": "flygeln08",
+      "name": "Flygeln08",
       "levels": [
         {
           "tileSize": 256,
@@ -379,7 +379,7 @@ var APP_DATA = {
     },
     {
       "id": "8-flygeln09",
-      "name": "flygeln09",
+      "name": "Flygeln09",
       "levels": [
         {
           "tileSize": 256,
@@ -430,7 +430,7 @@ var APP_DATA = {
     },
     {
       "id": "9-flygeln10",
-      "name": "flygeln10",
+      "name": "Flygeln10",
       "levels": [
         {
           "tileSize": 256,
@@ -481,7 +481,7 @@ var APP_DATA = {
     },
     {
       "id": "10-flygeln11",
-      "name": "flygeln11",
+      "name": "Flygeln11",
       "levels": [
         {
           "tileSize": 256,
@@ -525,7 +525,7 @@ var APP_DATA = {
     },
     {
       "id": "11-flygeln12",
-      "name": "flygeln12",
+      "name": "Flygeln12",
       "levels": [
         {
           "tileSize": 256,
@@ -569,7 +569,7 @@ var APP_DATA = {
     },
     {
       "id": "12-flygeln13",
-      "name": "flygeln13",
+      "name": "Flygeln13",
       "levels": [
         {
           "tileSize": 256,
