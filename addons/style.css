@@ -8,6 +8,11 @@
   src: url("font/FuturaStd-Bold.otf") format("opentype");
 }
 
+@font-face {
+  font-family: FuturaBook;
+  src: url("font/FuturaStd-Book.otf") format("opentype");
+}
+
 html * {
   font-family: 'Futura' !important;
 }
@@ -60,4 +65,16 @@ html * {
 
 .button {
   background-color: #be7400;
+}
+
+.info-hotspot-text * {
+  font-family: FuturaBook !important;
+}
+
+.info-hotspot .info-hotspot-text {
+  max-height: none !important;
+}
+
+.layoutArea .column {
+  padding: 10px;
 }

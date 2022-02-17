@@ -48,7 +48,14 @@ var APP_DATA = {
           "target": "3-flygeln04"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.6860290909617497,
+          "pitch": 0.21168696856810776,
+          "title": "Flygeln",
+          "text": "<div class=\"page\" title=\"Page 1\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT' \">Dukade långbord, sittande konsertpublik eller gungande dansgolv. I Flygeln, Norrköpings modernaste konsert- och konferenslokal, är det bara fantasin som sätter gränser. Med sittplatsläktare som smidigt kan hissas upp och döljas i taket öppn-\nar sig nya möjligheter. Konferera på dagen, efter ombyte och mingel har lokalen bytt skepnad till glittrande festplats! På\nscenen spelar ofta stora stjärnor, men på konferensen är du stjärnan.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      ]
     },
     {
       "id": "1-flygeln02",
@@ -400,8 +407,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.6629258030342058,
-          "pitch": 0.08662494744140048,
+          "yaw": -0.6629567397137741,
+          "pitch": 0.08424706141647675,
           "rotation": 0,
           "target": "9-flygeln10"
         },
@@ -410,15 +417,16 @@ var APP_DATA = {
           "pitch": -0.09058778580970461,
           "rotation": 0,
           "target": "2-flygeln03"
-        },
-        {
-          "yaw": -0.6487285542786552,
-          "pitch": 0.62539668007987,
-          "rotation": 0,
-          "target": "11-flygeln12"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.663396838294549,
+          "pitch": 0.5517018293109714,
+          "title": "Standardutrustning",
+          "text": "<span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•600–1500 pers</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•175 kvadratmeter scen</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•Ljudanläggning inkl 2 trådlösa mikrofoner •En konferenstekniker under uthyrningsperioden •Befintligt fast frontljus</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•Filmduk</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•Storbild/dataprojektor&nbsp;</span>"
+        }
+      ]
     },
     {
       "id": "9-flygeln10",
@@ -462,7 +470,14 @@ var APP_DATA = {
           "target": "2-flygeln03"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.852742401482365,
+          "pitch": 0.3807147101865773,
+          "title": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT'; font-weight: 600\">Smidig och anpassningsbar lokal, fylld med charm&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>",
+          "text": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT'\">Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      ]
     },
     {
       "id": "10-flygeln11",
@@ -544,8 +559,8 @@ var APP_DATA = {
           "target": "12-flygeln13"
         },
         {
-          "yaw": -0.8505587241315133,
-          "pitch": -0.04508071519620849,
+          "yaw": -0.8047049239933006,
+          "pitch": -0.0765428686327656,
           "rotation": 0,
           "target": "8-flygeln09"
         }
@@ -626,8 +641,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.744340533889531,
-          "pitch": 0.5088882569053936,
+          "yaw": 0.7416913749382079,
+          "pitch": 0.5086674909069462,
           "rotation": 0,
           "target": "14-loger02"
         },
@@ -664,9 +679,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.9012489226247222,
-        "pitch": -0.0792035954291741,
-        "fov": 2.0943951023931953
+        "yaw": -2.6375817282385885,
+        "pitch": 0.22957992852935405,
+        "fov": 1.5310754733511729
       },
       "linkHotspots": [
         {
@@ -676,7 +691,14 @@ var APP_DATA = {
           "target": "13-loger01"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -3.0523449997957233,
+          "pitch": 0.17673868033433493,
+          "title": "Solisten",
+          "text": "Info om solisten"
+        }
+      ]
     },
     {
       "id": "15-loger03",
@@ -718,6 +740,12 @@ var APP_DATA = {
           "pitch": 0.21963843433172414,
           "rotation": 0,
           "target": "17-loger05"
+        },
+        {
+          "yaw": 1.1528316042709026,
+          "pitch": 0.2610509256951943,
+          "rotation": 0,
+          "target": "13-loger01"
         }
       ],
       "infoHotspots": []
@@ -746,9 +774,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.9239782655901152,
-        "pitch": -0.05113022494923314,
-        "fov": 2.0943951023931953
+        "yaw": -1.243948463774153,
+        "pitch": 0.3781161050573516,
+        "fov": 1.5310754733511729
       },
       "linkHotspots": [
         {
@@ -758,7 +786,14 @@ var APP_DATA = {
           "target": "15-loger03"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.3989088681724287,
+          "pitch": 0.03143198635666877,
+          "title": "Dirigent",
+          "text": "Info om dirigent"
+        }
+      ]
     },
     {
       "id": "17-loger05",
@@ -800,6 +835,12 @@ var APP_DATA = {
           "pitch": 0.16340314328250116,
           "rotation": 0,
           "target": "19-loger07"
+        },
+        {
+          "yaw": 2.218006611419497,
+          "pitch": 0.21315571056339877,
+          "rotation": 0,
+          "target": "15-loger03"
         }
       ],
       "infoHotspots": []
@@ -828,9 +869,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 1.76781111411257,
-        "pitch": -0.08945362577769167,
-        "fov": 2.0943951023931953
+        "yaw": 1.837565330382274,
+        "pitch": 0.3803288787469761,
+        "fov": 1.5310754733511729
       },
       "linkHotspots": [
         {
@@ -840,7 +881,14 @@ var APP_DATA = {
           "target": "17-loger05"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 1.7261391414936949,
+          "pitch": 0.004524443550106838,
+          "title": "Solist 2",
+          "text": "Info om solist 2"
+        }
+      ]
     },
     {
       "id": "19-loger07",
@@ -866,9 +914,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.3770725229896943,
-        "pitch": -0.05301243927613086,
-        "fov": 2.0943951023931953
+        "yaw": -0.48558642399276053,
+        "pitch": 0.37385871179774455,
+        "fov": 1.5310754733511729
       },
       "linkHotspots": [
         {
@@ -878,7 +926,14 @@ var APP_DATA = {
           "target": "17-loger05"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.44437718902130996,
+          "pitch": 0.4908291018618858,
+          "title": "Solist 1",
+          "text": "Info om solist 1"
+        }
+      ]
     },
     {
       "id": "20-varmekyrkan01",
@@ -916,7 +971,14 @@ var APP_DATA = {
           "target": "22-varmekyrkan03"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.8366941630874436,
+          "pitch": 0.10396366104384214,
+          "title": "Värmekyrkan",
+          "text": "Ett stenkast från huvudbyggnaden Louis De Geer hittar vi Värmekyrkan. Detta är en lokal för dig som vill förbluffa – en rå industrimiljö med arkitektur, akustik och ljusspel som i en medeltida katedral. En plats med högt i tak där festblåsa möter betong och där modern teknik skapar rätt stämning."
+        }
+      ]
     },
     {
       "id": "21-varmekyrkan02",
@@ -951,7 +1013,7 @@ var APP_DATA = {
           "yaw": 0.6595989775835083,
           "pitch": 0.09223973300364463,
           "rotation": 0,
-          "target": "2-flygeln03"
+          "target": "22-varmekyrkan03"
         },
         {
           "yaw": -3.1281890447301315,
@@ -960,7 +1022,14 @@ var APP_DATA = {
           "target": "23-varmekyrkan04"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.006159001480025239,
+          "pitch": 0.22903733171724916,
+          "title": "En lokal med spännande industrihistoria",
+          "text": "Som många andra av våra lokaler är även denna lokal en gammal del av Industrilandskapets fabriker. Här var det förr en ångpannecentral. Klokt nog har inte mycket mer gjorts här än att blåsa ut fabriksinredningen och varsamt restaurera ytskikt, för att behålla den rå känslan, de helt fantastiska fönstren och skorstenarna som under adventstid utgör Sveriges största adventsljusstake. En överraskande lokal som skapar känslor och ger en riktig wow-känsla."
+        }
+      ]
     },
     {
       "id": "22-varmekyrkan03",
@@ -1042,7 +1111,14 @@ var APP_DATA = {
           "target": "21-varmekyrkan02"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 3.062596814044312,
+          "pitch": 0.4701292746605432,
+          "title": "Konferens &amp; event som sticker ut",
+          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor och annorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagare som vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att se möjligheterna öppnar vi gärna dörren till en värld av kontraster.<div><br></div><div><div>•500-1000 pers</div><div>•600 kvadratmeter scen</div></div>"
+        }
+      ]
     }
   ],
   "name": "Project Title",
