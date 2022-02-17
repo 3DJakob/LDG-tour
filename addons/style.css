@@ -1,0 +1,63 @@
+/* Grey */
+/* #5c5e67 */
+/* orange */
+/* #be7400 */
+
+@font-face {
+  font-family: Futura;
+  src: url("font/FuturaStd-Bold.otf") format("opentype");
+}
+
+html * {
+  font-family: 'Futura' !important;
+}
+
+#titleBar>h1 {
+  background-color: transparent !important;
+  /* font-family: 'Futura'; */
+}
+
+#sceneList {
+  /* display: none; */
+  background-color: rgb(36, 42, 51);
+}
+
+.scenes {
+  background-color: transparent !important;
+}
+
+.scenes a {
+  background-color: transparent !important;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 10px;
+  height: auto !important;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+  transition: 200ms;
+
+  display: none !important;
+}
+
+.scenes a.visible {
+  display: block !important;
+}
+
+.scenes a:hover {
+  background-color: #5c5e67 !important;
+}
+
+.scenes a li {
+  padding: 0 !important;
+}
+
+#sceneListToggle {
+  background-color: transparent !important;
+}
+
+#autorotateToggle {
+  background-color: transparent !important;
+}
+
+.button {
+  background-color: #be7400;
+}
