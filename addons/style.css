@@ -37,9 +37,7 @@ html * {
   text-transform: uppercase;
   padding: 10px;
   height: auto !important;
-  font-family: Georgia, 'Times New Roman', Times, serif !important;
   transition: 200ms;
-
   display: none !important;
 }
 
@@ -65,6 +63,10 @@ html * {
 
 .button {
   background-color: #be7400;
+}
+
+.info-hotspot-text {
+  font-family: FuturaBook !important;
 }
 
 .info-hotspot-text * {
