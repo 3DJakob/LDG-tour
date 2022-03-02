@@ -78,6 +78,10 @@ html * {
   font-family: FuturaBook !important;
 }
 
+.info-hotspot-text div>div {
+  margin: 4px 0;
+}
+
 .info-hotspot .info-hotspot-text {
   max-height: none !important;
 }
