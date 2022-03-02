@@ -1,6 +1,51 @@
 var APP_DATA = {
   "scenes": [
     {
+      "id": "12-ldg13",
+      "name": "LDG13",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.13791981556977362,
+        "pitch": -0.06990490115782322,
+        "fov": 1.5440678817948208
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.1202606812683289,
+          "pitch": 0.004083494716949687,
+          "rotation": 0,
+          "target": "11-ldg12"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.08223077548916002,
+          "pitch": 0.3415952866396097,
+          "title": "Upptäck, upplev och uppnå något nytt.",
+          "text": "Mitt i hjärtat av Norrköpings Industrilandskap hittar du en plats olik det mesta. Louis De Geer Konsert &amp; Kongress erbjuder en arena för konsert, konferens, företagsevent och matupplevelser.&nbsp;"
+        }
+      ]
+    },
+    {
       "id": "0-flygeln01",
       "name": "Flygeln01",
       "levels": [
@@ -1756,51 +1801,6 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
-    },
-    {
-      "id": "12-ldg13",
-      "name": "LDG13",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": -0.13791981556977362,
-        "pitch": -0.06990490115782322,
-        "fov": 1.5440678817948208
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.1202606812683289,
-          "pitch": 0.004083494716949687,
-          "rotation": 0,
-          "target": "11-ldg12"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": 0.08223077548916002,
-          "pitch": 0.3415952866396097,
-          "title": "Upptäck, upplev och uppnå något nytt.",
-          "text": "Mitt i hjärtat av Norrköpings Industrilandskap hittar du en plats olik det mesta. Louis De Geer Konsert &amp; Kongress erbjuder en arena för konsert, konferens, företagsevent och matupplevelser.&nbsp;"
-        }
-      ]
     },
     {
       "id": "13-ldg14",
