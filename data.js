@@ -1119,6 +1119,1408 @@ var APP_DATA = {
           "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor och annorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagare som vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att se möjligheterna öppnar vi gärna dörren till en värld av kontraster.<div><br></div><div><div>•500-1000 pers</div><div>•600 kvadratmeter scen</div></div>"
         }
       ]
+    },
+    {
+      "id": "0-ldg01",
+      "name": "LDG01",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -2.716997189315956,
+        "pitch": -0.17235459789100815,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.7139336887343948,
+          "pitch": 0.061860348511334706,
+          "rotation": 0,
+          "target": "1-ldg02"
+        },
+        {
+          "yaw": -1.6178054694291841,
+          "pitch": 0.07982739095163716,
+          "rotation": 0,
+          "target": "5-ldg06"
+        },
+        {
+          "yaw": 2.4488688822969085,
+          "pitch": 0.02583075513607902,
+          "rotation": 0,
+          "target": "4-ldg05"
+        },
+        {
+          "yaw": -2.718067467383408,
+          "pitch": -0.3496763082336809,
+          "rotation": 0,
+          "target": "6-ldg07"
+        },
+        {
+          "yaw": -2.7213618519647813,
+          "pitch": -0.4892050419119691,
+          "rotation": 0,
+          "target": "7-ldg08"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -3.047699404501669,
+          "pitch": 0.06986591991114821,
+          "title": "Konserthall",
+          "text": "Vår största lokal och salong öppnar famnen för stora konferenser och kongresser med krav på förstklassig akustik och gott om plats på båda sidor om orkesterdiket. Omfattande ljus-, ljud- och videoteknik samt flexibel möblering med skrivbords- möjligheter gör lokalen anpassningsbar och lyhörd för dina arrangörsbehov. Våra skickliga tekniker hjälper dig självklart genom hela arrangemanget."
+        },
+        {
+          "yaw": -1.978535989711105,
+          "pitch": 0.48948128837971083,
+          "title": "Standardutrustning",
+          "text": "<div><div>•1379 pers (729 parkett)</div><div>•310 kvadratmeter scen</div><div>•Ljudanläggning inkl 2 trådlösa mikrofoner</div><div>•En konferenstekniker under uthyrningsperioden</div><div>•Befintligt fast frontljus</div><div>•Filmduk</div><div>•Storbild/dataprojektor</div></div><div><br></div>"
+        }
+      ]
+    },
+    {
+      "id": "1-ldg02",
+      "name": "LDG02",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.750771940215671,
+        "pitch": -0.10549812481918153,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.7405028436437018,
+          "pitch": 0.1511390283826195,
+          "rotation": 0,
+          "target": "0-ldg01"
+        },
+        {
+          "yaw": 0.4004275054880395,
+          "pitch": 0.056921656335676474,
+          "rotation": 0,
+          "target": "4-ldg05"
+        },
+        {
+          "yaw": -1.9225232290403973,
+          "pitch": 0.049745641352854975,
+          "rotation": 0,
+          "target": "5-ldg06"
+        },
+        {
+          "yaw": 2.343448035591379,
+          "pitch": -0.648288362904994,
+          "rotation": 0,
+          "target": "6-ldg07"
+        },
+        {
+          "yaw": 2.3354112441354005,
+          "pitch": -0.8558382528863149,
+          "rotation": 0,
+          "target": "7-ldg08"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-ldg03",
+      "name": "LDG03",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -1.4463954496229867,
+        "pitch": 0.08042315100251152,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.8335223259237345,
+          "pitch": 0.020337591663034615,
+          "rotation": 0,
+          "target": "3-ldg04"
+        },
+        {
+          "yaw": 2.248458286707657,
+          "pitch": -0.05301152847671986,
+          "rotation": 0,
+          "target": "27-ldg29"
+        },
+        {
+          "yaw": 1.8662068436884116,
+          "pitch": -0.004691869357120737,
+          "rotation": 0,
+          "target": "9-ldg10"
+        },
+        {
+          "yaw": -2.370936408913016,
+          "pitch": -0.2703189309042937,
+          "rotation": 0,
+          "target": "17-ldg18"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.4282582632837428,
+          "pitch": -0.21629723138313395,
+          "title": "Stora event i storslagen miljö!",
+          "text": "De Geerhallens attraktiva och annorlunda foajémiljö öppnar ytterligare möjligheter. Här sjuder vattenfallen utanför pano- ramafönstren medan bistro, café, barservering och champagnebaren Upstairs servar dina gäster i flera plan. Med ytor lika stora som idéerna kan vi skapa upplevelser i världsklass. Med över 25 års erfarenhet av allt från det lilla mötet till megaar- rangemang hjälper vi dig att hitta den perfekta lösningen för att uppfylla era mål med mötet."
+        }
+      ]
+    },
+    {
+      "id": "3-ldg04",
+      "name": "LDG04",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 1.5627440039173344,
+        "pitch": 0.1606542150649517,
+        "fov": 2.0943951023931953
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.695966091790707,
+          "pitch": 0.03509793682301421,
+          "rotation": 0,
+          "target": "2-ldg03"
+        },
+        {
+          "yaw": -1.8078825232401599,
+          "pitch": -0.039671601236907605,
+          "rotation": 0,
+          "target": "4-ldg05"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-ldg05",
+      "name": "LDG05",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 0.721691485715823,
+        "pitch": 0.19643517299699553,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.1437285119009886,
+          "pitch": 0.10766206606313133,
+          "rotation": 0,
+          "target": "0-ldg01"
+        },
+        {
+          "yaw": 0.7162496708303596,
+          "pitch": 0.014335004406541785,
+          "rotation": 0,
+          "target": "5-ldg06"
+        },
+        {
+          "yaw": -1.1608130682548214,
+          "pitch": 0.11407921888142702,
+          "rotation": 0,
+          "target": "3-ldg04"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-ldg06",
+      "name": "LDG06",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.4373576454355224,
+        "pitch": 0.09477568521690571,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.4452024019834395,
+          "pitch": 0.013600230742943253,
+          "rotation": 0,
+          "target": "4-ldg05"
+        },
+        {
+          "yaw": 2.064775587678021,
+          "pitch": 0.10544062636759932,
+          "rotation": 0,
+          "target": "0-ldg01"
+        },
+        {
+          "yaw": -1.9911438462622133,
+          "pitch": 0.21997203569358703,
+          "rotation": 0,
+          "target": "27-ldg29"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-ldg07",
+      "name": "LDG07",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 1.4297929738632629,
+        "pitch": 0.48012149518559966,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.4455469746304654,
+          "pitch": 0.43128405205368026,
+          "rotation": 0,
+          "target": "0-ldg01"
+        },
+        {
+          "yaw": 1.4504185901674491,
+          "pitch": 0.7415652904004659,
+          "rotation": 0,
+          "target": "1-ldg02"
+        },
+        {
+          "yaw": 2.1877662882615603,
+          "pitch": 0.4857643886774152,
+          "rotation": 0,
+          "target": "4-ldg05"
+        },
+        {
+          "yaw": 0.6921462047713689,
+          "pitch": 0.5114115736677824,
+          "rotation": 0,
+          "target": "5-ldg06"
+        },
+        {
+          "yaw": -0.5989987788836562,
+          "pitch": 0.06948508106664164,
+          "rotation": 0,
+          "target": "16-ldg17"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-ldg08",
+      "name": "LDG08",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.5701891853900314,
+        "pitch": 0.5195507661694663,
+        "fov": 1.6180587961299182
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.5469122630832697,
+          "pitch": 0.4929361127932559,
+          "rotation": 0,
+          "target": "0-ldg01"
+        },
+        {
+          "yaw": -2.9920259188500804,
+          "pitch": 0.6554283722735548,
+          "rotation": 0,
+          "target": "4-ldg05"
+        },
+        {
+          "yaw": 1.8341319947200123,
+          "pitch": 0.6295699907671661,
+          "rotation": 0,
+          "target": "5-ldg06"
+        },
+        {
+          "yaw": 2.5470599026201732,
+          "pitch": 0.8821266886901977,
+          "rotation": 0,
+          "target": "1-ldg02"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-ldg09",
+      "name": "LDG09",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "9-ldg10",
+      "name": "LDG10",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.07250605357083,
+        "pitch": 0.08723811002716708,
+        "fov": 1.4013847585919863
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.1096871568312316,
+          "pitch": -0.002064334501001852,
+          "rotation": 0,
+          "target": "2-ldg03"
+        },
+        {
+          "yaw": -1.0420741228140038,
+          "pitch": 0.1310987559156267,
+          "rotation": 0,
+          "target": "10-ldg11"
+        },
+        {
+          "yaw": 2.4558187721104128,
+          "pitch": 0.16283693439094904,
+          "rotation": 0,
+          "target": "24-ldg26"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "10-ldg11",
+      "name": "LDG11",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -1.3083593157493727,
+        "pitch": 0.03277983670559337,
+        "fov": 1.4013847585919863
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.21676861723952,
+          "pitch": 0.08994116860739965,
+          "rotation": 0,
+          "target": "9-ldg10"
+        },
+        {
+          "yaw": 1.9208788384087079,
+          "pitch": 0.09299936706762857,
+          "rotation": 0,
+          "target": "11-ldg12"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "11-ldg12",
+      "name": "LDG12",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 0.9554134908929068,
+        "pitch": 0.058047227385777944,
+        "fov": 1.4013847585919863
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.9976366821301887,
+          "pitch": 0.1123972246658731,
+          "rotation": 0,
+          "target": "10-ldg11"
+        },
+        {
+          "yaw": -2.2741856914523932,
+          "pitch": 0.028392521581531938,
+          "rotation": 0,
+          "target": "12-ldg13"
+        },
+        {
+          "yaw": 1.6289942178522034,
+          "pitch": 0.3713720440818449,
+          "rotation": 0,
+          "target": "20-ldg22"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "12-ldg13",
+      "name": "LDG13",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.13791981556977362,
+        "pitch": -0.06990490115782322,
+        "fov": 1.5440678817948208
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.1202606812683289,
+          "pitch": 0.004083494716949687,
+          "rotation": 0,
+          "target": "11-ldg12"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.08223077548916002,
+          "pitch": 0.3415952866396097,
+          "title": "Upptäck, upplev och uppnå något nytt.",
+          "text": "Mitt i hjärtat av Norrköpings Industrilandskap hittar du en plats olik det mesta. Louis De Geer Konsert &amp; Kongress erbjuder en arena för konsert, konferens, företagsevent och matupplevelser.&nbsp;"
+        }
+      ]
+    },
+    {
+      "id": "13-ldg14",
+      "name": "LDG14",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -2.6093439520872668,
+        "pitch": 0.15308324878166957,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.5682626269417934,
+          "pitch": 0.07659461918986743,
+          "rotation": 0,
+          "target": "14-ldg15"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "14-ldg15",
+      "name": "LDG15",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -1.9584544121350653,
+        "pitch": -0.04165754285402201,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.1026931534862108,
+          "pitch": 0.08667552127285205,
+          "rotation": 0,
+          "target": "15-ldg16"
+        },
+        {
+          "yaw": -2.0611938818448756,
+          "pitch": -0.19426852826590668,
+          "rotation": 0,
+          "target": "16-ldg17"
+        },
+        {
+          "yaw": -1.830247743281113,
+          "pitch": 0.05194527421253348,
+          "rotation": 0,
+          "target": "13-ldg14"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.9643870895841662,
+          "pitch": 0.2939568717716323,
+          "title": "<div>Champagnebaren Upstairs<br></div>",
+          "text": "Högt uppe bland takåsarna på plan 4 och 5 hittar du champagnebaren Upstairs. Baren är en helt underbar plats för ett mingel, en fördrink, avsmakningsmeny eller kanske en trerätters.<br>"
+        }
+      ]
+    },
+    {
+      "id": "15-ldg16",
+      "name": "LDG16",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 0.5298826087620316,
+        "pitch": 0.10203407824331023,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.6979265964452157,
+          "pitch": -0.1476157330232013,
+          "rotation": 0,
+          "target": "14-ldg15"
+        },
+        {
+          "yaw": 0.36703471464152493,
+          "pitch": 0.33677538896754733,
+          "rotation": 0,
+          "target": "17-ldg18"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "16-ldg17",
+      "name": "LDG17",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -1.1558816070386904,
+        "pitch": 0.1653756788270968,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.096391971317842,
+          "pitch": 0.3531877750219934,
+          "rotation": 0,
+          "target": "14-ldg15"
+        },
+        {
+          "yaw": 1.3626463802156081,
+          "pitch": 0.0666607103744834,
+          "rotation": 0,
+          "target": "6-ldg07"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.6464284361447596,
+          "pitch": -0.1402910431414277,
+          "title": "<div>Boka Upstairs för mingel eller middag!<br></div>",
+          "text": "<div>Det fungerar fint att vara upp till 80 personer sittande, något fler för stående mingel. En provning med vår sommelier i Upstairs är en aktivitet som både ger ny energi och lugn.</div><div><br></div>"
+        }
+      ]
+    },
+    {
+      "id": "17-ldg18",
+      "name": "LDG18",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.7695315338338666,
+        "pitch": 0.15700480185609145,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.207781380510615,
+          "pitch": 0.3247469368287419,
+          "rotation": 0,
+          "target": "2-ldg03"
+        },
+        {
+          "yaw": -0.7772216668130252,
+          "pitch": -0.06995478655228204,
+          "rotation": 0,
+          "target": "15-ldg16"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "18-ldg20",
+      "name": "LDG20",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.4488223044141453,
+        "pitch": 0.21460984189239696,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.7429889475283264,
+          "pitch": 0.1326666669883103,
+          "rotation": 0,
+          "target": "20-ldg22"
+        },
+        {
+          "yaw": 2.3795856235377286,
+          "pitch": 0.007651554203221167,
+          "rotation": 0,
+          "target": "24-ldg26"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "19-ldg21",
+      "name": "LDG21",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 1.7782110399288893,
+        "pitch": 0.005996669940451227,
+        "fov": 1.5440678817948208
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.0853962286845658,
+          "pitch": 0.06566293778272936,
+          "rotation": 0,
+          "target": "18-ldg20"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "20-ldg22",
+      "name": "LDG22",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -3.0332561102065334,
+        "pitch": 0.01248364263124735,
+        "fov": 1.4013847585919863
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.3566530375717356,
+          "pitch": 0.04029309699214245,
+          "rotation": 0,
+          "target": "21-ldg23"
+        },
+        {
+          "yaw": -0.7899013298386635,
+          "pitch": 0.04683301363873582,
+          "rotation": 0,
+          "target": "18-ldg20"
+        },
+        {
+          "yaw": 2.1602977215787362,
+          "pitch": -0.28271257778440706,
+          "rotation": 0,
+          "target": "11-ldg12"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.1068609544183303,
+          "pitch": 0.12213332734684812,
+          "title": "Trozelligalleriet",
+          "text": "<div>Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren.</div><div>Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal.</div>"
+        }
+      ]
+    },
+    {
+      "id": "21-ldg23",
+      "name": "LDG23",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 0.455398523617939,
+        "pitch": 0.27433634681199237,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.714183334425986,
+          "pitch": 0.11642393048891009,
+          "rotation": 0,
+          "target": "20-ldg22"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.43207320512857805,
+          "pitch": -0.031402014023221625,
+          "title": "Trozellirummet",
+          "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sam- manträden som mindre föreläsningar.</div>"
+        },
+        {
+          "yaw": 0.7962061142993022,
+          "pitch": 0.027243283005445207,
+          "title": "Studio Trozelli",
+          "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker.<br><br>•Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</div><div>•1 st kamera</div><div>•2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</div><div>•Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen) •En dator för att hantera mötessystem, t.ex. Zoom eller Teams</div><div>•65” skärm bakom talaren för PPT, video från möte •32” skärm framför talaren, visar den bild som önskas</div><div><br></div>"
+        }
+      ]
+    },
+    {
+      "id": "22-ldg24",
+      "name": "LDG24",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.4575594740076667,
+        "pitch": 0.15671401473569446,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.2740236712989095,
+          "pitch": 0.2413105336441248,
+          "rotation": 0,
+          "target": "24-ldg26"
+        },
+        {
+          "yaw": 2.5203235829090564,
+          "pitch": 0.1043574375587184,
+          "rotation": 0,
+          "target": "23-ldg25"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "23-ldg25",
+      "name": "LDG25",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.7610951037209972,
+        "pitch": 0.31528601686458657,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.21832901880180522,
+          "pitch": 0.059383164061747706,
+          "rotation": 0,
+          "target": "22-ldg24"
+        },
+        {
+          "yaw": -1.2862011108269762,
+          "pitch": 0.06747897879970743,
+          "rotation": 0,
+          "target": "26-ldg28"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -0.7610951037209972,
+          "pitch": 0.31528601686458657,
+          "title": "Intim konferenslokal",
+          "text": "Lokalen har fast möblering i sluttande plan, vilket gör Hemerycksalen till ett rum där åhörare och föreläsare kommer varandra nära. Nyrenoverad 2014. Hemerycksalen är döpt efter familjen som startade pappersbruket. I direkt anslutning återfinns gott om ytor för mingel och mat."
+        },
+        {
+          "yaw": 0.9794799150298399,
+          "pitch": 0.2831579185821731,
+          "title": "Standardutrustning",
+          "text": "<div>•200 sittplatser</div><div>•Biosittning</div><div>•Ljudanläggning inkl. två trådlösa mikrofoner</div><div>•Dataprojektor</div><div>•Filmduk samt whiteboard</div><div>•Tillgång till konferenstekniker vid uppstart</div><div>•Fast belysning</div>"
+        }
+      ]
+    },
+    {
+      "id": "24-ldg26",
+      "name": "LDG26",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 1.794036031345935,
+        "pitch": 0.24146062906005916,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.596004806813319,
+          "pitch": 0.03926324942610826,
+          "rotation": 0,
+          "target": "22-ldg24"
+        },
+        {
+          "yaw": 2.305003966081485,
+          "pitch": 0.09916615700550047,
+          "rotation": 0,
+          "target": "25-ldg27"
+        },
+        {
+          "yaw": -0.7865640849070203,
+          "pitch": 0.10646177993409012,
+          "rotation": 0,
+          "target": "18-ldg20"
+        },
+        {
+          "yaw": -0.9513240746100973,
+          "pitch": -0.28715662031032174,
+          "rotation": 0,
+          "target": "9-ldg10"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 1.6507765588833756,
+          "pitch": 0.30440882953473647,
+          "title": "Heimrycksalen",
+          "text": "Hemerycksalen är en perfekt lokal för den mellanstora konferensen eller föreläsningen."
+        }
+      ]
+    },
+    {
+      "id": "25-ldg27",
+      "name": "LDG27",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.15919467545844768,
+        "pitch": 0.15096315235823,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.7779773931702678,
+          "pitch": 0.10822266989083573,
+          "rotation": 0,
+          "target": "26-ldg28"
+        },
+        {
+          "yaw": -2.9618049468371925,
+          "pitch": 0.10407166538670509,
+          "rotation": 0,
+          "target": "24-ldg26"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "26-ldg28",
+      "name": "LDG28",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.8406688356453937,
+        "pitch": 0.31340882491812394,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.8223566092091623,
+          "pitch": 0.1469811122118312,
+          "rotation": 0,
+          "target": "23-ldg25"
+        },
+        {
+          "yaw": -2.8154571357221805,
+          "pitch": 0.21379882528681549,
+          "rotation": 0,
+          "target": "25-ldg27"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "27-ldg29",
+      "name": "LDG29",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 1.9512053700325618,
+        "pitch": 0.0582723773826892,
+        "fov": 1.5440678817948208
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.36196504711876365,
+          "pitch": 0.05764925306311852,
+          "rotation": 0,
+          "target": "5-ldg06"
+        },
+        {
+          "yaw": 1.935909755601684,
+          "pitch": 0.10749724511214609,
+          "rotation": 0,
+          "target": "2-ldg03"
+        }
+      ],
+      "infoHotspots": []
     }
   ],
   "name": "Project Title",

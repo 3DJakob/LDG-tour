@@ -45,6 +45,11 @@ html * {
   display: block !important;
 }
 
+.scenes a.subtitle {
+  padding-left: 20px !important;
+  text-transform: initial !important;
+}
+
 .scenes a:hover {
   background-color: #5c5e67 !important;
 }
@@ -80,3 +85,7 @@ html * {
 .layoutArea .column {
   padding: 10px;
 }
+
+/* .hotspot-tooltip.link-hotspot-tooltip {
+  text-transform: uppercase;
+} */
