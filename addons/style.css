@@ -34,15 +34,47 @@ html * {
 .scenes a {
   background-color: transparent !important;
   font-size: 16px;
-  text-transform: uppercase;
   padding: 10px;
   height: auto !important;
   transition: 200ms;
   display: none !important;
 }
 
+.scenes a li {
+  font-family: athelas, serif !important;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.scenes a.scene::before {
+  content: ' ';
+  background-image: url('../img/chevron.svg');
+  background-size: 10px 10px;
+  height: 10px;
+  width: 10px;
+  margin-right: 5px;
+}
+
 .scenes a.visible {
-  display: block !important;
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+}
+
+.scenes a.visible.title:hover {
+  background-color: transparent !important;
+}
+
+.scenes a.visible.title li {
+  text-transform: uppercase;
+  font-family: Futura !important;
+  font-weight: bold;
+}
+
+.scenes a.scene.title::before {
+  content: '';
+  height: 0;
+  width: 0;
 }
 
 .scenes a.subtitle {
