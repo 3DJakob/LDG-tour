@@ -341,6 +341,7 @@
 
     var toggle = function() {
       wrapper.classList.toggle('visible');
+      stopAutorotate()
       modal.classList.toggle('visible');
     };
 
