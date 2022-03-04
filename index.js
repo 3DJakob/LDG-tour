@@ -183,6 +183,7 @@
   }
 
   function switchScene(scene) {
+    window.location.hash = scene.data.id
     stopAutorotate();
     scene.view.setParameters(scene.data.initialViewParameters);
     scene.scene.switchTo();
@@ -386,8 +387,15 @@
     }
     return null;
   }
-
-  // Display the initial scene.
-  switchScene(scenes[0]);
-
+  
+  if (window.location.hash) {
+    const target = findSceneById(window.location.hash.replace('#', ''))
+    if (target != null) {
+      switchScene(target)
+    } else {
+      switchScene(scenes[0]);
+    }
+  } else {
+    switchScene(scenes[0]);
+  }
 })();
