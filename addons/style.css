@@ -151,5 +151,5 @@ html * {
 }
 
 .hotspot-tooltip.link-hotspot-tooltip {
-  /* display: none; */
+  display: none;
 }
