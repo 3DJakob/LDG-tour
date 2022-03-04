@@ -469,7 +469,7 @@ var APP_DATA = {
           "yaw": -0.663396838294549,
           "pitch": 0.5517018293109714,
           "title": "Standardutrustning",
-          "text": "<span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•600–1500 pers</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•175 kvadratmeter scen</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•Ljudanläggning inkl 2 trådlösa mikrofoner •En konferenstekniker under uthyrningsperioden •Befintligt fast frontljus</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•Filmduk</span><br style=\"font-family: FuturaPT; font-size: 14.6667px;\"><span style=\"font-family: FuturaPT; font-size: 14.6667px;\">•Storbild/dataprojektor&nbsp;</span>"
+          "text": "<ul><li>600–1500 pers</li><li>175 kvadratmeter scen</li><li>Ljudanläggning inkl 2 trådlösa mikrofoner</li><li>En konferenstekniker under uthyrningsperioden</li><li>Befintligt fast frontljus</li><li>Filmduk</li><li>Storbild/dataprojektor</li></ul>"
         }
       ]
     },
@@ -519,8 +519,8 @@ var APP_DATA = {
         {
           "yaw": 2.852742401482365,
           "pitch": 0.3807147101865773,
-          "title": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT'; font-weight: 600\">Smidig och anpassningsbar lokal, fylld med charm&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>",
-          "text": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT'\">Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "title": "Anpassningsbar lokal",
+          "text": "Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut."
         }
       ]
     },
@@ -1071,7 +1071,7 @@ var APP_DATA = {
         {
           "yaw": 0.006159001480025239,
           "pitch": 0.22903733171724916,
-          "title": "En lokal med spännande industrihistoria",
+          "title": "Industrihistoria",
           "text": "Som många andra av våra lokaler är även denna lokal en gammal del av Industrilandskapets fabriker. Här var det förr en ångpannecentral. Klokt nog har inte mycket mer gjorts här än att blåsa ut fabriksinredningen och varsamt restaurera ytskikt, för att behålla den rå känslan, de helt fantastiska fönstren och skorstenarna som under adventstid utgör Sveriges största adventsljusstake. En överraskande lokal som skapar känslor och ger en riktig wow-känsla."
         }
       ]
@@ -1160,8 +1160,8 @@ var APP_DATA = {
         {
           "yaw": 3.062596814044312,
           "pitch": 0.4701292746605432,
-          "title": "Konferens &amp; event som sticker ut",
-          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor och annorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagare som vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att se möjligheterna öppnar vi gärna dörren till en värld av kontraster.<div><br></div><div><div>•500-1000 pers</div><div>•600 kvadratmeter scen</div></div>"
+          "title": "Konferens &amp; event",
+          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul>"
         }
       ]
     },
@@ -1236,7 +1236,7 @@ var APP_DATA = {
           "yaw": -1.978535989711105,
           "pitch": 0.48948128837971083,
           "title": "Standardutrustning",
-          "text": "<div><div>•1379 pers (729 parkett)</div><div>•310 kvadratmeter scen</div><div>•Ljudanläggning inkl 2 trådlösa mikrofoner</div><div>•En konferenstekniker under uthyrningsperioden</div><div>•Befintligt fast frontljus</div><div>•Filmduk</div><div>•Storbild/dataprojektor</div></div><div><br></div>"
+          "text": "<ul><li>1379 pers (729 parkett)</li><li>310 kvadratmeter scen</li><li>Ljudanläggning inkl 2 trådlösa mikrofoner</li><li>En konferenstekniker under uthyrningsperioden</li><li>Befintligt fast frontljus</li><li>Filmduk</li><li>Storbild/dataprojektor</li></ul>"
         }
       ]
     },
@@ -1899,8 +1899,8 @@ var APP_DATA = {
         {
           "yaw": -1.9643870895841662,
           "pitch": 0.2939568717716323,
-          "title": "<div>Champagnebaren Upstairs<br></div>",
-          "text": "Högt uppe bland takåsarna på plan 4 och 5 hittar du champagnebaren Upstairs. Baren är en helt underbar plats för ett mingel, en fördrink, avsmakningsmeny eller kanske en trerätters.<br>"
+          "title": "Upstairs",
+          "text": "Högt uppe bland takåsarna på plan 4 och 5 hittar du champagnebaren Upstairs. Baren är en helt underbar plats för ett mingel, en fördrink, avsmakningsmeny eller kanske en trerätters."
         }
       ]
     },
@@ -1994,8 +1994,8 @@ var APP_DATA = {
         {
           "yaw": -1.6464284361447596,
           "pitch": -0.1402910431414277,
-          "title": "<div>Boka Upstairs för mingel eller middag!<br></div>",
-          "text": "<div>Det fungerar fint att vara upp till 80 personer sittande, något fler för stående mingel. En provning med vår sommelier i Upstairs är en aktivitet som både ger ny energi och lugn.</div><div><br></div>"
+          "title": "Boka Upstairs",
+          "text": "Det fungerar fint att vara upp till 80 personer sittande, något fler för stående mingel. En provning med vår sommelier i Upstairs är en aktivitet som både ger ny energi och lugn."
         }
       ]
     },
@@ -2178,7 +2178,7 @@ var APP_DATA = {
           "yaw": -1.1068609544183303,
           "pitch": 0.12213332734684812,
           "title": "Trozelligalleriet",
-          "text": "<div>Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren.</div><div>Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal.</div>"
+          "text": "Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren.</div><div>Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal."
         }
       ]
     },
@@ -2229,7 +2229,7 @@ var APP_DATA = {
           "yaw": 0.7962061142993022,
           "pitch": 0.027243283005445207,
           "title": "Studio Trozelli",
-          "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker.<br><br>•Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</div><div>•1 st kamera</div><div>•2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</div><div>•Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen) •En dator för att hantera mötessystem, t.ex. Zoom eller Teams</div><div>•65” skärm bakom talaren för PPT, video från möte •32” skärm framför talaren, visar den bild som önskas</div><div><br></div>"
+          "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker. <ul><li>Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</li><li>1 st kamera</li><li>2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</li><li>Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen)</li><li>En dator för att hantera mötessystem, t.ex. Zoom eller Teams</li><li>65” skärm bakom talaren för PPT, video från möte</li><li>32” skärm framför talaren, visar den bild som önskas</li></ul></div>"
         }
       ]
     },
@@ -2330,7 +2330,7 @@ var APP_DATA = {
           "yaw": 0.9794799150298399,
           "pitch": 0.2831579185821731,
           "title": "Standardutrustning",
-          "text": "<div>•200 sittplatser</div><div>•Biosittning</div><div>•Ljudanläggning inkl. två trådlösa mikrofoner</div><div>•Dataprojektor</div><div>•Filmduk samt whiteboard</div><div>•Tillgång till konferenstekniker vid uppstart</div><div>•Fast belysning</div>"
+          "text": "<ul><li>200 sittplatser</li><li>Biosittning</li><li>Ljudanläggning inkl. två trådlösa mikrofoner</li><li>Dataprojektor</li><li>Filmduk samt whiteboard</li><li>Tillgång till konferenstekniker vid uppstart</li><li>Fast belysning</li></ul>"
         }
       ]
     },

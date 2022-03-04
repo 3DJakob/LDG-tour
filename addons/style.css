@@ -113,6 +113,17 @@ html * {
 
 .info-hotspot-text {
   font-family: FuturaBook !important;
+  padding: 16px !important;
+}
+
+.info-hotspot-text ul {
+  padding: 10px;
+  padding-left: 26px;
+  list-style: initial;
+}
+
+.info-hotspot-text ul li {
+  margin: 8px 0;
 }
 
 .info-hotspot-text * {
