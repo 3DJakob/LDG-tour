@@ -1358,9 +1358,9 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.4282582632837428,
-          "pitch": -0.21629723138313395,
-          "title": "Stora event i storslagen miljö!",
+          "yaw": -1.2,
+          "pitch": -0.19,
+          "title": "Event i storslagen miljö!",
           "text": "De Geerhallens attraktiva och annorlunda foajémiljö öppnar ytterligare möjligheter. Här sjuder vattenfallen utanför pano- ramafönstren medan bistro, café, barservering och champagnebaren Upstairs servar dina gäster i flera plan. Med ytor lika stora som idéerna kan vi skapa upplevelser i världsklass. Med över 25 års erfarenhet av allt från det lilla mötet till megaar- rangemang hjälper vi dig att hitta den perfekta lösningen för att uppfylla era mål med mötet."
         }
       ]
@@ -1750,7 +1750,14 @@ var APP_DATA = {
           "target": "11-ldg12"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.69,
+          "pitch": 0.18,
+          "title": "Garderob",
+          "text": "Garderob finns i anslutning till respektive entré och kostar 30 kronor. Man får inte ta med sig ytterkläder in i salongen, för allas trevnad."
+        }
+      ]
     },
     {
       "id": "11-ldg12",
