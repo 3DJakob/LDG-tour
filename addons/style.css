@@ -34,7 +34,7 @@ html * {
 .scenes a {
   background-color: transparent !important;
   font-size: 16px;
-  padding: 10px;
+  padding: 6px;
   height: auto !important;
   transition: 200ms;
   display: none !important;
@@ -79,6 +79,7 @@ html * {
 
 .scenes a.subtitle {
   padding-left: 20px !important;
+  padding-right: 20px;
   text-transform: initial !important;
 }
 
@@ -88,6 +89,14 @@ html * {
 
 .scenes a li {
   padding: 0 !important;
+}
+
+#sceneList .scenes {
+  padding: 20px;
+}
+
+#sceneList {
+  width: 300px !important;
 }
 
 #sceneListToggle {
@@ -125,3 +134,11 @@ html * {
 /* .hotspot-tooltip.link-hotspot-tooltip {
   text-transform: uppercase;
 } */
+
+#titleBar {
+  display: none;
+}
+
+.hotspot-tooltip.link-hotspot-tooltip {
+  /* display: none; */
+}

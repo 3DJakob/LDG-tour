@@ -40,8 +40,8 @@ var APP_DATA = {
         {
           "yaw": 0.08223077548916002,
           "pitch": 0.3415952866396097,
-          "title": "Upptäck, upplev och uppnå något nytt.",
-          "text": "Mitt i hjärtat av Norrköpings Industrilandskap hittar du en plats olik det mesta. Louis De Geer Konsert &amp; Kongress erbjuder en arena för konsert, konferens, företagsevent och matupplevelser.&nbsp;"
+          "title": "Upptäck Louis De Geer",
+          "text": "Mitt i hjärtat av Norrköpings Industrilandskap hittar du en plats olik det mesta. Louis De Geer Konsert &amp; Kongress erbjuder en arena för konsert, konferens, företagsevent och matupplevelser."
         }
       ]
     },
