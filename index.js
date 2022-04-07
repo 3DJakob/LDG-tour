@@ -399,3 +399,34 @@
     switchScene(scenes[0]);
   }
 })();
+
+// slideshow
+const sliders = document.querySelectorAll('.scroller')
+
+const initScroller = (scrollerElement) => {
+  const row = document.createElement('div')
+  row.className = 'scrollerRow'
+  const leftContainer = document.createElement('div')
+  const left = document.createElement('img')
+  left.src = 'img/left.png'
+  leftContainer.className = 'scrollerButton'
+  left.addEventListener('click', () => scrollerElement.scrollTo(scrollerElement.scrollLeft - scrollerElement.offsetWidth - 1, 0))
+  left.addEventListener('press', () => scrollerElement.scrollTo(scrollerElement.scrollLeft - scrollerElement.offsetWidth - 1, 0))
+  leftContainer.appendChild(left)
+  row.appendChild(leftContainer)
+  const rightContainer = document.createElement('div')
+  const right = document.createElement('img')
+  right.src = 'img/right.png'
+  rightContainer.className = 'scrollerButton'
+  right.addEventListener('click', () => scrollerElement.scrollTo(scrollerElement.scrollLeft + scrollerElement.offsetWidth + 1, 0))
+  right.addEventListener('press', () => scrollerElement.scrollTo(scrollerElement.scrollLeft + scrollerElement.offsetWidth + 1, 0))
+  rightContainer.appendChild(right)
+  row.appendChild(rightContainer)
+  
+  scrollerElement.parentElement.appendChild(row)
+}
+
+[].forEach.call(sliders, function(div) {
+  initScroller(div)
+})
+

@@ -116,6 +116,30 @@ html * {
   padding: 16px !important;
 }
 
+.info-hotspot-text img {
+  width: 100%;
+}
+
+.info-hotspot-text .scroller {
+  display: flex;
+  overflow: scroll;
+  scroll-behavior: smooth;
+}
+
+.info-hotspot-text .scrollerButton {
+  padding: 10px;
+}
+
+.info-hotspot-text .scrollerButton img {
+  width: 16px;
+}
+
+.info-hotspot-text .scrollerRow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: -15px;
+}
+
 .info-hotspot-text p {
   margin-bottom: 10px;
 }

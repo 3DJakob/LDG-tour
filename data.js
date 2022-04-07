@@ -520,7 +520,7 @@ var APP_DATA = {
           "yaw": 2.852742401482365,
           "pitch": 0.3807147101865773,
           "title": "Anpassningsbar lokal",
-          "text": "Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut."
+          "text": "Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut.<div class='scroller'><img src='img/assets/Flygeln.jpg'></img><img src='img/assets/Flygeln2.jpg'></img><img src='img/assets/Flygeln3.jpg'></img></div>"
         }
       ]
     },
@@ -1078,7 +1078,7 @@ var APP_DATA = {
           "yaw": 0.4,
           "pitch": 0.2,
           "title": "Konferens &amp; event",
-          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul>"
+          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul><div class='scroller'><img src='img/assets/vk.jpg'></img><img src='img/assets/vk2.jpg'></img></div>"
         }
       ]
     },
@@ -2177,7 +2177,7 @@ var APP_DATA = {
           "yaw": -1.1068609544183303,
           "pitch": 0.12213332734684812,
           "title": "Trozelligalleriet",
-          "text": "<p>Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren. Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal.</p><p>1100 personer</p><p>1500 kvm utställningsyta</p>"
+          "text": "<p>Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren. Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal.</p><p>1100 personer</p><p>1500 kvm utställningsyta</p><div class='scroller'><img src='img/assets/Trozelligalleriet.jpg'></img><img src='img/assets/Trozelligalleriet2.jpg'></img><img src='img/assets/Trozelligalleriet3.jpg'></img></div>"
         }
       ]
     },
@@ -2222,7 +2222,7 @@ var APP_DATA = {
           "yaw": 0.43207320512857805,
           "pitch": -0.031402014023221625,
           "title": "Trozellirummet",
-          "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sam- manträden som mindre föreläsningar.</div>"
+          "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sammanträden som mindre föreläsningar.</div>"
         },
         {
           "yaw": 1.2,
