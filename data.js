@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": 0.08223077548916002,
           "pitch": 0.3415952866396097,
           "title": "Upptäck Louis De Geer",
-          "text": "Mitt i hjärtat av Norrköpings Industrilandskap hittar du en plats olik det mesta. Louis De Geer Konsert &amp; Kongress erbjuder en arena för konsert, konferens, företagsevent och matupplevelser."
+          "text": "Välkommen in!"
         }
       ]
     },
@@ -519,7 +519,7 @@ var APP_DATA = {
         {
           "yaw": 2.852742401482365,
           "pitch": 0.3807147101865773,
-          "title": "Anpassningsbar lokal",
+          "title": "Flygeln",
           "text": "Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut.<div class='scroller'><img src='img/assets/Flygeln.jpg'></img><img src='img/assets/Flygeln2.jpg'></img><img src='img/assets/Flygeln3.jpg'></img></div>"
         }
       ]
@@ -1071,13 +1071,13 @@ var APP_DATA = {
         {
           "yaw": -0.48,
           "pitch": 0.14,
-          "title": "Industrihistoria",
+          "title": "Värmekyrkan",
           "text": "Som många andra av våra lokaler är även denna lokal en gammal del av Industrilandskapets fabriker. Här var det förr en ångpannecentral. Klokt nog har inte mycket mer gjorts här än att blåsa ut fabriksinredningen och varsamt restaurera ytskikt, för att behålla den rå känslan, de helt fantastiska fönstren och skorstenarna som under adventstid utgör Sveriges största adventsljusstake. En överraskande lokal som skapar känslor och ger en riktig wow-känsla."
         },
         {
           "yaw": 0.4,
           "pitch": 0.2,
-          "title": "Konferens &amp; event",
+          "title": "Värmekyrkan",
           "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul><div class='scroller'><img src='img/assets/vk.jpg'></img><img src='img/assets/vk2.jpg'></img></div>"
         }
       ]
