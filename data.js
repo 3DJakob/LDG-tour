@@ -740,8 +740,8 @@ var APP_DATA = {
         {
           "yaw": -3.0523449997957233,
           "pitch": 0.17673868033433493,
-          "title": "Solisten",
-          "text": "Info om solisten"
+          "title": "Solist 1",
+          "text": "Loge med allt som kan tänkas behövas. En soffa för avkoppling, klädavhängning, sminkbord samt kyl och toalett."
         }
       ]
     },
@@ -835,8 +835,8 @@ var APP_DATA = {
         {
           "yaw": -1.3989088681724287,
           "pitch": 0.03143198635666877,
-          "title": "Dirigent",
-          "text": "Info om dirigent"
+          "title": "Dirigenten",
+          "text": "En större loge med en soffa för avkoppling, klädavhängning, två sminkbord samt kyl och toalett."
         }
       ]
     },
@@ -931,7 +931,7 @@ var APP_DATA = {
           "yaw": 1.7261391414936949,
           "pitch": 0.004524443550106838,
           "title": "Solist 2",
-          "text": "Info om solist 2"
+          "text": "Loge med allt som kan tänkas behövas. En soffa för avkoppling, klädavhängning, sminkbord samt kyl och toalett."
         }
       ]
     },
@@ -975,8 +975,8 @@ var APP_DATA = {
         {
           "yaw": -0.44437718902130996,
           "pitch": 0.4908291018618858,
-          "title": "Solist 1",
-          "text": "Info om solist 1"
+          "title": "Loge",
+          "text": "Vår största loge, men flertal sminkbord, kyl, soffgrupp och större samlingsyta."
         }
       ]
     },
@@ -1069,10 +1069,16 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.006159001480025239,
-          "pitch": 0.22903733171724916,
+          "yaw": -0.48,
+          "pitch": 0.14,
           "title": "Industrihistoria",
           "text": "Som många andra av våra lokaler är även denna lokal en gammal del av Industrilandskapets fabriker. Här var det förr en ångpannecentral. Klokt nog har inte mycket mer gjorts här än att blåsa ut fabriksinredningen och varsamt restaurera ytskikt, för att behålla den rå känslan, de helt fantastiska fönstren och skorstenarna som under adventstid utgör Sveriges största adventsljusstake. En överraskande lokal som skapar känslor och ger en riktig wow-känsla."
+        },
+        {
+          "yaw": 0.4,
+          "pitch": 0.2,
+          "title": "Konferens &amp; event",
+          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul>"
         }
       ]
     },
@@ -1156,14 +1162,7 @@ var APP_DATA = {
           "target": "21-varmekyrkan02"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 3.062596814044312,
-          "pitch": 0.4701292746605432,
-          "title": "Konferens &amp; event",
-          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "0-ldg01",
@@ -1361,7 +1360,7 @@ var APP_DATA = {
           "yaw": -1.2,
           "pitch": -0.19,
           "title": "Event i storslagen miljö!",
-          "text": "De Geerhallens attraktiva och annorlunda foajémiljö öppnar ytterligare möjligheter. Här sjuder vattenfallen utanför pano- ramafönstren medan bistro, café, barservering och champagnebaren Upstairs servar dina gäster i flera plan. Med ytor lika stora som idéerna kan vi skapa upplevelser i världsklass. Med över 25 års erfarenhet av allt från det lilla mötet till megaar- rangemang hjälper vi dig att hitta den perfekta lösningen för att uppfylla era mål med mötet."
+          "text": "De Geerhallens attraktiva och annorlunda foajémiljö öppnar ytterligare möjligheter. Här sjuder vattenfallen utanför pano- ramafönstren medan bistro, café, barservering och champagnebaren Upstairs servar dina gäster i flera plan. Med ytor lika stora som idéerna kan vi skapa upplevelser i världsklass. Med över 25 års erfarenhet av allt från det lilla mötet till stora arrangemang hjälper vi dig att hitta den perfekta lösningen för att uppfylla era mål med mötet."
         }
       ]
     },
@@ -1899,7 +1898,7 @@ var APP_DATA = {
         {
           "yaw": -1.9643870895841662,
           "pitch": 0.2939568717716323,
-          "title": "Upstairs",
+          "title": "Upstairs / Champangebar",
           "text": "Högt uppe bland takåsarna på plan 4 och 5 hittar du champagnebaren Upstairs. Baren är en helt underbar plats för ett mingel, en fördrink, avsmakningsmeny eller kanske en trerätters."
         }
       ]
@@ -1994,8 +1993,8 @@ var APP_DATA = {
         {
           "yaw": -1.6464284361447596,
           "pitch": -0.1402910431414277,
-          "title": "Boka Upstairs",
-          "text": "Det fungerar fint att vara upp till 80 personer sittande, något fler för stående mingel. En provning med vår sommelier i Upstairs är en aktivitet som både ger ny energi och lugn."
+          "title": "Upstairs / Champangebar",
+          "text": "<p>Perfekt för vin- eller champagneprovning med vår sommelier.</p><p>Plats för 80 personer.</p>"
         }
       ]
     },
@@ -2178,7 +2177,7 @@ var APP_DATA = {
           "yaw": -1.1068609544183303,
           "pitch": 0.12213332734684812,
           "title": "Trozelligalleriet",
-          "text": "Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren.</div><div>Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal."
+          "text": "<p>Vår långsträckta utställningslokal och bankettsal Trozelligalleriet har Strömmens forsande vatten direkt utanför fönstren. Utnyttja den goda utsikten för en riktigt stor mässa, middag, fest eller bal.</p><p>1100 personer</p><p>1500 kvm utställningsyta</p>"
         }
       ]
     },
@@ -2226,7 +2225,7 @@ var APP_DATA = {
           "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sam- manträden som mindre föreläsningar.</div>"
         },
         {
-          "yaw": 0.7962061142993022,
+          "yaw": 1.2,
           "pitch": 0.027243283005445207,
           "title": "Studio Trozelli",
           "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker. <ul><li>Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</li><li>1 st kamera</li><li>2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</li><li>Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen)</li><li>En dator för att hantera mötessystem, t.ex. Zoom eller Teams</li><li>65” skärm bakom talaren för PPT, video från möte</li><li>32” skärm framför talaren, visar den bild som önskas</li></ul></div>"
@@ -2323,7 +2322,7 @@ var APP_DATA = {
         {
           "yaw": -0.7610951037209972,
           "pitch": 0.31528601686458657,
-          "title": "Intim konferenslokal",
+          "title": "Hemerycksalen",
           "text": "Lokalen har fast möblering i sluttande plan, vilket gör Hemerycksalen till ett rum där åhörare och föreläsare kommer varandra nära. Nyrenoverad 2014. Hemerycksalen är döpt efter familjen som startade pappersbruket. I direkt anslutning återfinns gott om ytor för mingel och mat."
         },
         {
@@ -2392,7 +2391,7 @@ var APP_DATA = {
         {
           "yaw": 1.6507765588833756,
           "pitch": 0.30440882953473647,
-          "title": "Heimrycksalen",
+          "title": "Hemerycksalen",
           "text": "Hemerycksalen är en perfekt lokal för den mellanstora konferensen eller föreläsningen."
         }
       ]
@@ -2759,7 +2758,14 @@ var APP_DATA = {
           "target": "5-6"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.65,
+          "pitch": 0.2,
+          "title": "Vingen",
+          "text": "<p>Vår konferensvåning lever verkligen upp till kraven på flexibilitet. Lokalen består av en härlig lounge och åtta ljusa konferensrum med flyttbara väggar.</p><ul><li>Totalt upp till 498 personer</li><li>Största rummet tar 164 personer</li><li>Tillgång till konferenstekniker vid konferensstart</li><li>Filmduk, blädderblock & Whiteboard</li><li>Storbild/dataprojektor</li></ul>"
+        }
+      ]
     },
     {
       "id": "5-6",

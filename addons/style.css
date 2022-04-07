@@ -116,6 +116,14 @@ html * {
   padding: 16px !important;
 }
 
+.info-hotspot-text p {
+  margin-bottom: 10px;
+}
+
+.info-hotspot-text p:last-child {
+  margin-bottom: 0;
+}
+
 .info-hotspot-text ul {
   padding: 10px;
   padding-left: 26px;
