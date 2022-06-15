@@ -24,13 +24,13 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.13791981556977362,
+        "yaw": -3.93791981556977362,
         "pitch": -0.06990490115782322,
         "fov": 1.5440678817948208
       },
       "linkHotspots": [
         {
-          "yaw": 0.1202606812683289,
+          "yaw": -3.75812683289,
           "pitch": 0.004083494716949687,
           "rotation": 0,
           "target": "11-ldg12"
@@ -38,7 +38,7 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.08223077548916002,
+          "yaw": -3.75223077548916002,
           "pitch": 0.3415952866396097,
           "title": "Upptäck Louis De Geer",
           "text": "Välkommen in!"
