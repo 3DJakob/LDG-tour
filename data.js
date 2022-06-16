@@ -2375,6 +2375,12 @@ var APP_DATA = {
           "target": "25-ldg27"
         },
         {
+          "yaw": 2.955003966081485,
+          "pitch": 0.09916615700550047,
+          "rotation": 0,
+          "target": "holmen1"
+        },
+        {
           "yaw": -0.7865640849070203,
           "pitch": 0.10646177993409012,
           "rotation": 0,
@@ -3456,6 +3462,94 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "holmen1",
+      "name": "Holmen1",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.822465489347425,
+          "pitch": 0.08167186806718706,
+          "rotation": 0,
+          "target": "24-ldg26"
+        },
+        {
+          "yaw": 0.6851285727136572,
+          "pitch": 0.2000364735875218,
+          "rotation": 0,
+          "target": "holmen2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "holmen2",
+      "name": "Holmen2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.334,
+          "pitch": 0.08167186806718706,
+          "rotation": 0,
+          "target": "holmen1"
+        },
+        {
+          "yaw": 1.904,
+          "pitch": 0.04167186806718706,
+          "rotation": 0,
+          "target": "24-ldg26"
+        }
+      ],
       "infoHotspots": []
     }
   ],
