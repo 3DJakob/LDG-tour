@@ -513,6 +513,12 @@ var APP_DATA = {
           "pitch": -0.18468327473469515,
           "rotation": 0,
           "target": "2-flygeln03"
+        },
+        {
+          "yaw": 2.8398582935924397,
+          "pitch": 1.10825187178682327,
+          "rotation": 0,
+          "target": "11-flygeln12"
         }
       ],
       "infoHotspots": [
@@ -592,19 +598,19 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.8505587241315133,
+        "yaw": -2.8505587241315133,
         "pitch": -0.04508071519620849,
         "fov": 2.0943951023931953
       },
       "linkHotspots": [
         {
-          "yaw": 2.317865268835633,
+          "yaw": 0.317865268835633,
           "pitch": 0.0899801697579985,
           "rotation": 0,
           "target": "12-flygeln13"
         },
         {
-          "yaw": -0.8047049239933006,
+          "yaw": -2.8047049239933006,
           "pitch": -0.0765428686327656,
           "rotation": 0,
           "target": "8-flygeln09"
