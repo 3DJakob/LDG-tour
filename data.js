@@ -2280,27 +2280,90 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.455398523617939,
+        "yaw": 2.455398523617939,
         "pitch": 0.27433634681199237,
         "fov": 1.4453044773601649
       },
       "linkHotspots": [
         {
-          "yaw": -2.714183334425986,
+          "yaw": -0.614183334425986,
           "pitch": 0.11642393048891009,
           "rotation": 0,
           "target": "20-ldg22"
+        },
+        {
+          "yaw": -0.63207320512857805,
+          "pitch": 2.11642393048891009,
+          "rotation": 0,
+          "target": "21-ldg23-2"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.43207320512857805,
+          "yaw": 2.53207320512857805,
           "pitch": -0.031402014023221625,
           "title": "Trozellirummet",
           "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sammanträden som mindre föreläsningar.</div>"
         },
         {
-          "yaw": 1.2,
+          "yaw": 3.25,
+          "pitch": 0.027243283005445207,
+          "title": "Studio Trozelli",
+          "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker. <ul><li>Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</li><li>1 st kamera</li><li>2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</li><li>Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen)</li><li>En dator för att hantera mötessystem, t.ex. Zoom eller Teams</li><li>65” skärm bakom talaren för PPT, video från möte</li><li>32” skärm framför talaren, visar den bild som önskas</li></ul></div>"
+        }
+      ]
+    },
+    {
+      "id": "21-ldg23-2",
+      "name": "LDG23-2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 2.455398523617939,
+        "pitch": 0.27433634681199237,
+        "fov": 1.4453044773601649
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.614183334425986,
+          "pitch": 0.11642393048891009,
+          "rotation": 0,
+          "target": "20-ldg22"
+        },
+        {
+          "yaw": -0.63207320512857805,
+          "pitch": 2.11642393048891009,
+          "rotation": 0,
+          "target": "21-ldg23"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 2.53207320512857805,
+          "pitch": -0.031402014023221625,
+          "title": "Trozellirummet",
+          "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sammanträden som mindre föreläsningar.</div>"
+        },
+        {
+          "yaw": 3.25,
           "pitch": 0.027243283005445207,
           "title": "Studio Trozelli",
           "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker. <ul><li>Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</li><li>1 st kamera</li><li>2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</li><li>Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen)</li><li>En dator för att hantera mötessystem, t.ex. Zoom eller Teams</li><li>65” skärm bakom talaren för PPT, video från möte</li><li>32” skärm framför talaren, visar den bild som önskas</li></ul></div>"
