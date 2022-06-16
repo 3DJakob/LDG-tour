@@ -462,11 +462,74 @@ var APP_DATA = {
           "pitch": -0.09058778580970461,
           "rotation": 0,
           "target": "2-flygeln03"
+        },
+        {
+          "yaw": -0.663396838294549,
+          "pitch": 0.9017018293109714,
+          "rotation": 0,
+          "target": "8-flygeln09-2"
         }
       ],
       "infoHotspots": [
         {
           "yaw": -0.663396838294549,
+          "pitch": 0.5517018293109714,
+          "title": "Standardutrustning",
+          "text": "<ul><li>600–1500 pers</li><li>175 kvadratmeter scen</li><li>Ljudanläggning inkl 2 trådlösa mikrofoner</li><li>En konferenstekniker under uthyrningsperioden</li><li>Befintligt fast frontljus</li><li>Filmduk</li><li>Storbild/dataprojektor</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "8-flygeln09-2",
+      "name": "Flygeln09-2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -2.8420614680654992,
+        "pitch": -0.04672650196180818,
+        "fov": 2.0943951023931953
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.8629567397137741,
+          "pitch": 0.30424706141647675,
+          "rotation": 0,
+          "target": "11-flygeln12"
+        },
+        {
+          "yaw": -2.863396838294549,
+          "pitch": 0.1058778580970461,
+          "rotation": 0,
+          "target": "12-flygeln13"
+        },
+        {
+          "yaw": -2.863396838294549,
+          "pitch": 0.9017018293109714,
+          "rotation": 0,
+          "target": "8-flygeln09"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -2.863396838294549,
           "pitch": 0.5517018293109714,
           "title": "Standardutrustning",
           "text": "<ul><li>600–1500 pers</li><li>175 kvadratmeter scen</li><li>Ljudanläggning inkl 2 trådlösa mikrofoner</li><li>En konferenstekniker under uthyrningsperioden</li><li>Befintligt fast frontljus</li><li>Filmduk</li><li>Storbild/dataprojektor</li></ul>"
@@ -613,7 +676,13 @@ var APP_DATA = {
           "yaw": -2.8047049239933006,
           "pitch": -0.0765428686327656,
           "rotation": 0,
-          "target": "8-flygeln09"
+          "target": "8-flygeln09-2"
+        },
+        {
+          "yaw": -2.8047049239933006,
+          "pitch": 1.0765428686327656,
+          "rotation": 0,
+          "target": "9-flygeln10"
         }
       ],
       "infoHotspots": []
