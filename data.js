@@ -1153,7 +1153,7 @@ var APP_DATA = {
           "yaw": 0.4,
           "pitch": 0.2,
           "title": "Värmekyrkan",
-          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor ochannorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att semöjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul><div class='scroller'><img src='img/assets/vk.jpg'></img><img src='img/assets/vk2.jpg'></img></div>"
+          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor och annorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att se möjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul><div class='scroller'><img src='img/assets/vk.jpg'></img><img src='img/assets/vk2.jpg'></img></div>"
         }
       ]
     },
@@ -1303,7 +1303,7 @@ var APP_DATA = {
         {
           "yaw": -3.047699404501669,
           "pitch": 0.06986591991114821,
-          "title": "Konserthall",
+          "title": "De Geerhallen / konserthall",
           "text": "Vår största lokal och salong öppnar famnen för stora konferenser och kongresser med krav på förstklassig akustik och gott om plats på båda sidor om orkesterdiket. Omfattande ljus-, ljud- och videoteknik samt flexibel möblering med skrivbords- möjligheter gör lokalen anpassningsbar och lyhörd för dina arrangörsbehov. Våra skickliga tekniker hjälper dig självklart genom hela arrangemanget."
         },
         {
@@ -1973,7 +1973,7 @@ var APP_DATA = {
         {
           "yaw": -1.9643870895841662,
           "pitch": 0.2939568717716323,
-          "title": "Upstairs / Champangebar",
+          "title": "Upstairs / Champagnebar",
           "text": "Högt uppe bland takåsarna på plan 4 och 5 hittar du champagnebaren Upstairs. Baren är en helt underbar plats för ett mingel, en fördrink, avsmakningsmeny eller kanske en trerätters."
         }
       ]
@@ -2068,7 +2068,7 @@ var APP_DATA = {
         {
           "yaw": -1.6464284361447596,
           "pitch": -0.1402910431414277,
-          "title": "Upstairs / Champangebar",
+          "title": "Upstairs / Champagnebar",
           "text": "<p>Perfekt för vin- eller champagneprovning med vår sommelier.</p><p>Plats för 80 personer.</p>"
         }
       ]
