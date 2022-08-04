@@ -2303,13 +2303,7 @@ var APP_DATA = {
           "yaw": 2.53207320512857805,
           "pitch": -0.031402014023221625,
           "title": "Trozellirummet",
-          "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sammanträden som mindre föreläsningar.</div>"
-        },
-        {
-          "yaw": 3.25,
-          "pitch": 0.027243283005445207,
-          "title": "Studio Trozelli",
-          "text": "<div>I Trozellirummet finns utrustning för digitalt möte. Denna studio är tänkt för 1-2 personer på plats och det ingår en tekniker. <ul><li>Bildmixer för mixning av kamera, Videomöte, Powerpoint mm</li><li>1 st kamera</li><li>2 st mikrofoner (2 Headmic eller 1 st Headmic + 1 handmick)</li><li>Ingång på för t.ex. PPT-dator (denna bild kan läggas upp i helbild i sändningen)</li><li>En dator för att hantera mötessystem, t.ex. Zoom eller Teams</li><li>65” skärm bakom talaren för PPT, video från möte</li><li>32” skärm framför talaren, visar den bild som önskas</li></ul></div>"
+          "text": "<div>Fler möjligheter för dig som söker en lokal av rätt mått. Våra små konferensrum med fri möblering lämpar sig för såväl sammanträden som mindre föreläsningar.<ul><li>Tillgång till konferenstekniker vid konferensstart</li><li>Filmduk, blädderblock & Whiteboard</li><li>Storbild/dataprojektor</li></ul></div>"
         }
       ]
     },
