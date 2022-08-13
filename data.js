@@ -98,7 +98,7 @@ var APP_DATA = {
           "yaw": -0.6860290909617497,
           "pitch": 0.21168696856810776,
           "title": "Flygeln",
-          "text": "<div class=\"page\" title=\"Page 1\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT' \">Dukade långbord, sittande konsertpublik eller gungande dansgolv. I Flygeln, Norrköpings modernaste konsert- och konferenslokal, är det bara fantasin som sätter gränser. Med sittplatsläktare som smidigt kan hissas upp och döljas i taket öppn-\nar sig nya möjligheter. Konferera på dagen, efter ombyte och mingel har lokalen bytt skepnad till glittrande festplats! På\nscenen spelar ofta stora stjärnor, men på konferensen är du stjärnan.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "<div class=\"page\" title=\"Page 1\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-size: 11.000000pt; font-family: 'FuturaPT' \">Dukade långbord, sittande konsertpublik eller gungande dansgolv. I Flygeln, Norrköpings modernaste konsert- och konferenslokal, är det bara fantasin som sätter gränser. Med sittplatsläktare som smidigt kan hissas upp och döljas i taket öppnar sig nya möjligheter. Konferera på dagen, efter ombyte och mingel har lokalen bytt skepnad till glittrande festplats! På\nscenen spelar ofta stora stjärnor, men på konferensen är du stjärnan.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
         }
       ]
     },
@@ -589,7 +589,7 @@ var APP_DATA = {
           "yaw": 2.852742401482365,
           "pitch": 0.3807147101865773,
           "title": "Flygeln",
-          "text": "Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter\ndina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut.<div class='scroller'><img src='img/assets/Flygeln.jpg'></img><img src='img/assets/Flygeln2.jpg'></img><img src='img/assets/Flygeln3.jpg'></img></div>"
+          "text": "Flygeln är skapad för att klara det mesta. Du kör in flera bilar på scenen utan problem, och dekoren anpassas helt efter dina önskemål. Ljud- och ljusshowen är en viktig del av upplevelsen och Flygeln levererar fullt ut.<div class='scroller'><img src='img/assets/Flygeln.jpg'></img><img src='img/assets/Flygeln2.jpg'></img><img src='img/assets/Flygeln3.jpg'></img></div>"
         }
       ]
     },
@@ -1153,7 +1153,7 @@ var APP_DATA = {
           "yaw": 0.4,
           "pitch": 0.2,
           "title": "Värmekyrkan",
-          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor och annorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagaresom vill bjuda på en annorlunda upplevelse. Värmekyrkan är en krävande lokal, men för dig som har modet att se möjligheterna öppnar vi gärna dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul><div class='scroller'><img src='img/assets/vk.jpg'></img><img src='img/assets/vk2.jpg'></img></div>"
+          "text": "Internationella företagsevenemang, heta middagar, coola rockkonserter, tankeväckande konstutställningar, mässor och annorlunda tv-inspelningar har redan ägt rum under stålbalkarna. Evenemang med en sak gemensamt: djärva initiativtagare som vill bjuda på en annorlunda upplevelse. Värmekyrkan öppnar dörren till en värld av kontraster.<ul><li>500-1000 pers</li><li>600 kvadratmeter scen</li></ul><div class='scroller'><img src='img/assets/vk.jpg'></img><img src='img/assets/vk2.jpg'></img></div>"
         }
       ]
     },
@@ -3638,7 +3638,14 @@ var APP_DATA = {
           "target": "holmen2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.35223077548916002,
+          "pitch": 0.250596396097,
+          "title": "Kråkholmen",
+          "text": "Kråkholmen är vår gröna oas mitt i stan som lämpar sig perfekt för evenemang under sommarhalvåret. Här kan ni ha er sommarfest, kickoff, grillfest eller revy. Maxantal vid sittande bord är ca 300 personer. Utomhusscen finns."
+        }
+      ]
     },
     {
       "id": "holmen2",
