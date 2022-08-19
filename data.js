@@ -717,13 +717,13 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.012130524124167,
+          "yaw": 6.15,
           "pitch": 0.13741320182130679,
           "rotation": 0,
           "target": "11-flygeln12"
         },
         {
-          "yaw": 1.6014301144585108,
+          "yaw": 4.74,
           "pitch": 0.19381105030171852,
           "rotation": 0,
           "target": "10-flygeln11"
