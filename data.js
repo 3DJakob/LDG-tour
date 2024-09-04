@@ -2699,7 +2699,7 @@ var APP_DATA = {
           yaw: -2.6442250537979213,
           pitch: 0.110830569365854,
           rotation: 0,
-          target: "2-3",
+          target: "21-22",
         },
         {
           yaw: -1.3825799250977155,
@@ -2799,7 +2799,7 @@ var APP_DATA = {
           yaw: 2.859711390852663,
           pitch: 0.04713556886811432,
           rotation: 0,
-          target: "0-1",
+          target: "21-22",
         },
         {
           yaw: 0.944656529843531,
@@ -3006,7 +3006,7 @@ var APP_DATA = {
           yaw: 0.19098645473314946,
           pitch: 0.16844666885557658,
           rotation: 0,
-          target: "0-1",
+          target: "21-22",
         },
         {
           yaw: -1.1555074378872234,
@@ -3648,6 +3648,56 @@ var APP_DATA = {
         fov: 1.5707963267948966,
       },
       linkHotspots: [],
+      infoHotspots: [],
+    },
+    {
+      id: "21-22",
+      name: "22",
+      levels: [
+        {
+          tileSize: 256,
+          size: 256,
+          fallbackOnly: true,
+        },
+        {
+          tileSize: 512,
+          size: 512,
+        },
+        {
+          tileSize: 512,
+          size: 1024,
+        },
+        {
+          tileSize: 512,
+          size: 2048,
+        },
+      ],
+      faceSize: 1520,
+      initialViewParameters: {
+        yaw: -0.8356042395678731,
+        pitch: 0.19585467083520314,
+        fov: 1.483760728083627,
+      },
+      linkHotspots: [
+        {
+          yaw: -0.5316086051038091,
+          pitch: 0.42678505819637813,
+          rotation: 0,
+          target: "0-1",
+        },
+        {
+          yaw: -2.8225878016228805,
+          pitch: 0.3075471035366313,
+          rotation: 0,
+          target: "2-3",
+        },
+        {
+          yaw: 2.3517693235241275,
+          pitch: 0.182540090980984,
+          rotation: 0,
+          target: "6-7",
+        },
+      ],
       infoHotspots: [],
     },
     {
