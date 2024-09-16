@@ -3600,7 +3600,7 @@ var APP_DATA = {
       faceSize: 1520,
       initialViewParameters: {
         pitch: 0,
-        yaw: 0,
+        yaw: 3.1,
         fov: 1.5707963267948966,
       },
       linkHotspots: [
