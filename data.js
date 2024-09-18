@@ -2913,7 +2913,7 @@ var APP_DATA = {
           yaw: 0.431700774594377,
           pitch: 0.10398178747118934,
           title: "Vingen",
-          text: "<p>Vår konferensvåning lever verkligen upp till kraven på flexibilitet. Lokalen består av en härlig lounge och 8 ljusa konferensrum med flyttbara väggar.</p><ul><li>Totalt upp till 498 personer</li><li>Största rummet tar 164 personer</li><li>Tillgång till konferensansvarig vid konferensstart</li><li>Filmduk, blädderblock & Whiteboard</li><li>Storbild/dataprojektor</li></ul>",
+          text: "<p>Vår konferensvåning lever verkligen upp till kraven på flexibilitet. Lokalen består av en härlig lounge och 8 konferensrum med flyttbara väggar.</p><ul><li>Totalt upp till 498 personer</li><li>Största rummet tar 164 personer</li><li>Tillgång till konferensansvarig vid konferensstart</li><li>Filmduk, blädderblock & Whiteboard</li><li>Storbild/dataprojektor</li></ul>",
         },
       ],
     },
