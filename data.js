@@ -2863,6 +2863,12 @@ var APP_DATA = {
           rotation: 0,
           target: "6-7",
         },
+        {
+          yaw: 5.6,
+          pitch: 0.299,
+          rotation: 0,
+          target: "1-2",
+        },
       ],
       infoHotspots: [],
     },
